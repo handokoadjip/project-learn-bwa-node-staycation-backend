@@ -18,11 +18,11 @@ For those who want to contribute, just fork or download as usual!
 
 Clone the repository
 
-    git clone git@github.com:handokoadjipangestu/project-learn-bwa-node-staycation-api.git
+    git clone git@github.com:handokoadjipangestu/project-learn-bwa-node-staycation-backend.git
 
 ## Usage example
 
-![Dashboard](https://bebaskripsi.000webhostapp.com/project-learn-bwa-node-staycation-api/dashboard.png?)
+![Dashboard](https://bebaskripsi.000webhostapp.com/project-learn-bwa-node-staycation-backend/dashboard.png?)
 
 _For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadp/)._
 
@@ -30,7 +30,7 @@ _For more examples and usage, please contact [Handoko Adji Pangestu](https://www
 
 Switch to the repo folder
 
-    cd project-learn-bwa-node-staycation-api
+    cd project-learn-bwa-node-staycation-backend
 
 Install all the dependencies using npm or yarn
 
